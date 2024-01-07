@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"index": "node indexer.js"
+	},
+	"dependencies": {
+		"playwright": "^1.40.1"
+	}
+}
