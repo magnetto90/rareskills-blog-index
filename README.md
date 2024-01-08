@@ -300,3 +300,6 @@ The intuitive way to track lender deposits is to record the amount of USDC they 
 ## cUSDC V3 (Compound V3) as a non-standard Rebasing Token, CometExt.sol [🔗](https://www.rareskills.io/post/cusdc-v3-compound)
 The Compound V3 contract behaves like a rebasing ERC 20 token. A rebasing token is a token which has an algorithmically adjusted supply...
 
+## Understanding Collateral, Liquidations, and Reserves in Compound V3 [🔗](https://www.rareskills.io/post/compound-finance-liquidation)
+In this chapter we will examine the following topics about Compound V3: collateral valuation absorbing insufficiently collateralized...
+
